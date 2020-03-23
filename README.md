@@ -1,3 +1,3 @@
 # Neuroscience_Centipede
 
-[embed]http://example.com/file.pdf[/embed]
+[embed]https://github.com/6vvvvvv/Neuroscience_Centipede/blob/master/presentation.pdf[/embed]
